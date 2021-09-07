@@ -31,9 +31,7 @@ Email : [cjstk060207@naver.com](mailto:norhu1130@naver.com)
 
 ```클릭할 시 흑룡 트위치로 이동됩니다```
 
----
-
-# YouTube Information
+### YouTube Count
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCm-43e3QtutTBrlD-MuUM1A?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm-43e3QtutTBrlD-MuUM1A?style=social)
  
