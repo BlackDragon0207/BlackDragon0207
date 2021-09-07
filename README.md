@@ -20,9 +20,9 @@ Email : [cjstk060207@naver.com](mailto:norhu1130@naver.com)
 ---
 
 ### Platform
-![BlackDragon YouTube](https://www.youtube.com/channel/UCm-43e3QtutTBrlD-MuUM1A)
+[BlackDragon YouTube](https://www.youtube.com/channel/UCm-43e3QtutTBrlD-MuUM1A)
 
-![BlackDragon Twitch](https://www.twitch.tv/bjblackdragon)
+[BlackDragon Twitch](https://www.twitch.tv/bjblackdragon)
 ---
 
 ### YouTube Information
