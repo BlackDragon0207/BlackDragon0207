@@ -3,6 +3,8 @@
 # BlackDragon [ Github ]
 Hello! I'm BlackDragon, who code as a hobby.
 
+---
+
 Discord : 흑룡#3184
 
 Discord Server : [BlackDragon Community](https://discord.gg/XCpAAYY)
