@@ -21,7 +21,6 @@ Email : [cjstk060207@naver.com](mailto:norhu1130@naver.com)
 
 # Platform
 
-### YouTube
+### YouTube ### Twitch
 [![YouTube](https://cdn.discordapp.com/attachments/872798553049792522/884768979997052928/youtube.png)](https://www.youtube.com/channel/UCm-43e3QtutTBrlD-MuUM1A)
-### Twitch
 [![Twitch](https://cdn.discordapp.com/attachments/872798553049792522/884768998766567454/626552936784199691.png)](https://www.twitch.tv/bjblackdragon)
