@@ -1,7 +1,6 @@
 ### 👋 Hello everyone 👋
 
 # BlackDragon [ Github ]
-안녕하세요! 취미로 코딩을 하는 흑룡이라고 합니다.
 Hello! I'm BlackDragon, who code as a hobby.
 
 Discord : 흑룡#3184
