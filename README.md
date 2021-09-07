@@ -5,6 +5,8 @@ Hello! I'm BlackDragon, who code as a hobby.
 
 Discord : 흑룡#3184
 
+Discord Server : [BlackDragon Community](https://discord.gg/XCpAAYY)
+
 Email : [cjstk060207@naver.com](mailto:norhu1130@naver.com)
 
 ### [ Information ]
