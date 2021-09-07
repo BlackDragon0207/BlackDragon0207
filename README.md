@@ -22,5 +22,3 @@ Email : [cjstk060207@naver.com](mailto:norhu1130@naver.com)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCm-43e3QtutTBrlD-MuUM1A?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm-43e3QtutTBrlD-MuUM1A?style=social)
  
----
-
