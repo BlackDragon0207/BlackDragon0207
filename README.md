@@ -19,8 +19,8 @@ Email : [cjstk060207@naver.com](mailto:norhu1130@naver.com)
 ---
 
 ### [ YouTube Information ]
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCLlgK7SH1J-VQdWWPu3uaog?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLlgK7SH1J-VQdWWPu3uaog?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/흑룡유튜브?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/흑룡유튜브?style=social)
  
 ---
 
