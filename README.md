@@ -1,6 +1,6 @@
 ### 🎉 Hello, everyone! Welcome to the Black Dragon Git Hub! 🎉
 
-# BlackDragon[Github]
+# BlackDragon[GitHub]
 Hello! I'm BlackDragon, who code as a hobby.
 
 Discord : 흑룡#3184
