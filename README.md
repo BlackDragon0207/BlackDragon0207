@@ -11,29 +11,29 @@ Email : [cjstk060207@naver.com](mailto:norhu1130@naver.com)
 
 ---
 
-### Information
+# Information
 ![BlackDragon0207's github Status](https://github-readme-stats.vercel.app/api?username=BlackDragon0207&show_icons=true&theme=tokyonight)
 
-### Top Language
+# Top Language
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDragon0207&theme=tokyonight)<br/>
 
 ---
 
-### Platform
+# Platform
 
-# YouTube
+### YouTube
 [![YouTube](https://cdn.discordapp.com/attachments/872798553049792522/884768979997052928/youtube.png)](https://www.youtube.com/channel/UCm-43e3QtutTBrlD-MuUM1A)
 
 ```클릭할 시 흑룡 유튜브 채널로 이동됩니다```
 
-# Twitch
+### Twitch
 [![Twitch](https://cdn.discordapp.com/attachments/872798553049792522/884768998766567454/626552936784199691.png)](https://www.twitch.tv/bjblackdragon)
 
 ```클릭할 시 흑룡 트위치로 이동됩니다```
 
 ---
 
-### YouTube Information
+# YouTube Information
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCm-43e3QtutTBrlD-MuUM1A?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm-43e3QtutTBrlD-MuUM1A?style=social)
  
