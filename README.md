@@ -1,4 +1,4 @@
-### 👋 Hello everyone 👋
+### 🎉 Hello, everyone! Welcome to the Black Dragon Git Hub! 🎉
 
 # BlackDragon [ Github ]
 Hello! I'm BlackDragon, who code as a hobby.
