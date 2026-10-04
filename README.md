@@ -2,7 +2,7 @@
 
 # BlackDragon
 
-[![GitHub](https://img.shields.io/badge/GitHub-BlackDragon0207-181717?style=flat-square&logo=github)](https://github.com/BlackDragon0207)\n
+[![GitHub](https://img.shields.io/badge/GitHub-BlackDragon0207-181717?style=flat-square&logo=github)](https://github.com/BlackDragon0207)
 [![Discord](https://img.shields.io/badge/Discord-blackdragon0207-5865F2?style=flat-square&logo=discord)](https://discord.com)
 [![Discord Server](https://img.shields.io/badge/Discord-흑룡_BLACKDRAGON-5865F2?style=flat-square&logo=discord)](https://discord.gg/fWDqaGxugh)
 [![Email](https://img.shields.io/badge/Email-cjstk060207%40naver.com-03C75A?style=flat-square&logo=naver)](mailto:cjstk060207@naver.com)
