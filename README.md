@@ -2,10 +2,6 @@
 
 # BlackDragon[GitHub]
 
-前 야코코님 쇼츠 편집자
-現 잠꾸님 고정 외주 편집자
-現 방송영상미디어학과 영상편집 전공
-
 Discord : blackdragon0207
 
 Discord Server : [BlackDragon Community]([https://discord.gg/XCpAAYY](https://discord.gg/fWDqaGxugh ))
