@@ -1,11 +1,14 @@
-### 🎉 Hello, everyone! Welcome to the Black Dragon Git Hub! 🎉
+### Video Editor & Motion Graphic Designer | KR/JP
 
 # BlackDragon[GitHub]
-Hello! I'm BlackDragon, who code as a hobby.
+
+前 야코코님 쇼츠 편집자
+現 잠꾸님 고정 외주 편집자
+現 방송영상미디어학과 영상편집 전공
 
 Discord : blackdragon0207
 
-Discord Server : [BlackDragon Community](https://discord.gg/XCpAAYY)
+Discord Server : [BlackDragon Community]([https://discord.gg/XCpAAYY](https://discord.gg/fWDqaGxugh ))
 
 Email : [cjstk060207@naver.com](mailto:norhu1130@naver.com)
 
