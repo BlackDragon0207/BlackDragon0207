@@ -10,7 +10,7 @@
 ---
 
 ### Information
-![BlackDragon0207's GitHub Status](https://github-readme-stats.vercel.app/api?username=BlackDragon0207&show_icons=true&theme=tokyonight)
+![BlackDragon0207's GitHub Status](https://github-readme-stats.vercel.app/api?username=BlackDragon0207&show_icons=true&theme=default)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDragon0207&layout=compact&theme=tokyonight&hide_sinks=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDragon0207&layout=compact&theme=default&hide_sinks=false)
